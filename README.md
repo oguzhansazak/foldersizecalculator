@@ -13,4 +13,9 @@ foldersizecalculator C:\users\
 for current directory:
 foldersizecalculator .
 
-If you add it path, you can use it from anywhere in command line. 
+If you add it path, you can use it from anywhere in command line.  
+
+Sample output:
+
+![image](https://user-images.githubusercontent.com/34332624/143550247-4d18003f-e10a-42b6-8eeb-a2ae5cd3875c.png)
+
